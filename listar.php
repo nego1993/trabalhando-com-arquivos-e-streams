@@ -1,9 +1,9 @@
 <?php
 
 $arquivo = fopen('experiencias.txt', 'r');
-
-while (!feof($arquivo)) {
-    $experiencias = fgets($arquivo);
+{
+    $tamanhoArquivo = filesize('experiencias.txt') ;
+    $experiencias = fread($arquivo, $tamanhoArquivo);
 
     echo $experiencias;
 }
