@@ -4,3 +4,6 @@ Listas de experiencias
 3: solidworks
 4: centro de usinagem
 5: metalurgica
+6: preparação de centro de usinagem
+7: programação de centro de usinagem
+8: operação de centro de usinagem

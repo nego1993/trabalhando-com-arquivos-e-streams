@@ -1,11 +1,5 @@
 <?php
 
-$arquivo = fopen('experiencias.txt', 'r');
-{
-    $tamanhoArquivo = filesize('experiencias.txt') ;
-    $experiencias = fread($arquivo, $tamanhoArquivo);
+$experiencias = file('experiencias.txt');
 
-    echo $experiencias;
-}
-
-fclose($arquivo);
+var_dump($experiencias);
