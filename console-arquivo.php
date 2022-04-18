@@ -2,6 +2,6 @@
 
 $teclado = fopen('php://stdin', 'r');
 
-$novaExperiencia = fgets($teclado);
+$novaExperiencia = trim(fgets(STDIN));
 
-file_put_contents('experiencias.txt', "\n$novaExoeriencia", FILE_APPEND);
+file_put_contents('experiencias.txt', "\n$novaExperiencia", FILE_APPEND);

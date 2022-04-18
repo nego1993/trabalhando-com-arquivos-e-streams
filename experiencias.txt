@@ -7,3 +7,8 @@ Listas de experiencias
 6: preparação de centro de usinagem
 7: programação de centro de usinagem
 8: operação de centro de usinagem
+9: leitura de desenho mecanico
+10: tridimensional
+11:Gestao de equipe
+12:Projetos mecanicos
+13:Fresa convencional
