@@ -1,0 +1,6 @@
+Listas de experiencias
+1: controle numerico de coordenadas
+2: autocad
+3: solidworks
+4: centro de usinagem
+5: metalurgica
