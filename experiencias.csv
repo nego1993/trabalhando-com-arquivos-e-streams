@@ -4,13 +4,13 @@
 "3: solidworks";Sim
 "4: centro de usinagem";Sim
 "5: metalurgica";Sim
-"6: preparaÃ§Ã£o de centro de usinagem";Sim
-"7: programaÃ§Ã£o de centro de usinagem";Sim
-"8: operaÃ§Ã£o de centro de usinagem";Sim
+"6: preparação de centro de usinagem";Sim
+"7: programação de centro de usinagem";Sim
+"8: operação de centro de usinagem";Sim
 "9: leitura de desenho mecanico";Sim
 "10: tridimensional";Sim
 "11:Gestao de equipe";Sim
 "12:Projetos mecanicos";Sim
 "13:Fresa convencional";Sim
-"preparaÃ§Ã£o de centro de usinagem";Nao
-"programaÃ§Ã£o de centro de usinagem";Nao
+"preparação de centro de usinagem";Nao
+"programação de centro de usinagem";Nao
